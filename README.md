@@ -51,5 +51,11 @@ This repository contains my Machine Learning internship tasks completed at CodeO
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Google Colab, GitHub
 
 ### Links
+### Task 3: Regression Model - House Price Prediction ✅ DONE
+- **Objective:** Predict house price from size
+- **Dataset:** Custom 10 houses (Size vs Price)
+- **Model:** Linear Regression
+- **Result:** R2 Score ~0.99, MSE low - Perfect linear relation
+- **Visualization:** Scatter + Regression Line plot
 - GitHub Repo: https://github.com/srirangamgayathri8-ship-it/CodeOrbit-ML-internship
 - CodeOrbit Tech: https://www.codeorbittech.in
